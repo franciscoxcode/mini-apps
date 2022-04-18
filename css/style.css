@@ -21,6 +21,9 @@
 /* BASE STYLES
 /*******************************************/
 
+.logo {
+	height: 40px;
+}
 
 
 /******************************************
@@ -41,6 +44,7 @@ header {
 	display: flex;
 	justify-content: space-between;
 	padding: 20px 35px;
+	height: 20px;
 }
 
 .miniapp {
