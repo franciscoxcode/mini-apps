@@ -106,7 +106,7 @@ footer {
 /* MEDIA QUERIES
 /*******************************************/
 
-@media screen and (max-width: 1247px) {
+@media all and (max-width: 1247px) {
 	.miniapp {
 		display: flex;
 		padding: 0px 70px;
@@ -115,7 +115,7 @@ footer {
 	}
 }
 
-@media screen and (max-width: 1087px) {
+@media all and (max-width: 1087px) {
 	.miniapp {
 		display: flex;
 		padding: 0px 30px;
@@ -124,7 +124,7 @@ footer {
 	}
 }
 
-@media screen and (max-width: 660px) {
+@media all and (max-width: 660px) {
 	.miniapp {
 		display: block;
 		padding: 80px 40px 20px 40px;
