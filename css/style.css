@@ -22,7 +22,6 @@
 /*******************************************/
 
 body {
-	display: flex;
 	
 }
 
@@ -36,21 +35,19 @@ footer {
 }
 
 h2 {
-	margin-bottom: 40px;
+
 }
 
 .maintitle {
-	text-align: center;
+
 }
 
 .mainsection {
-	padding: 50px;
-	width: 100%;
+
 }
 
 .instructions {
-	text-align: center;
-	width: 50%;
+
 }
 
 /******************************************
