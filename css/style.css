@@ -129,9 +129,8 @@ footer {
 @media all and (max-width: 660px) {
 	.miniapp {
 		display: block;
-		padding: 80px 40px 20px 40px;
-		width: 100%;
-		
+		padding: 60px 40px 40px 40px;
+		width: 100%;	
 	}
 
 	html {
@@ -146,6 +145,10 @@ footer {
 	.right {
 		width: 80%;
 		margin: 65px auto 70px auto;
+	}
+
+	.instructions {
+		width: 85%;
 	}
 }
 
