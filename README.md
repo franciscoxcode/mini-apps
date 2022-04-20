@@ -4,9 +4,9 @@ Each mini app solves a very simple problem with a click of a button. There are m
 [Mini Apps - Main Live Page](https://franciscocasillas.github.io/mini-apps/)
 
 ## Mini apps list
-[Reverse Text] (https://franciscocasillas.github.io/mini-apps/apps/StringReverse/index.html)
-[DNA to RNA converter] (https://franciscocasillas.github.io/mini-apps/apps/DNAtoRNA/index.html)
-[Binary to Decimal converter] (https://franciscocasillas.github.io/mini-apps/apps/Binary%20to%20Decimal/index.html)
+[Reverse Text](https://franciscocasillas.github.io/mini-apps/apps/StringReverse/index.html)
+[DNA to RNA converter](https://franciscocasillas.github.io/mini-apps/apps/DNAtoRNA/index.html)
+[Binary to Decimal converter](https://franciscocasillas.github.io/mini-apps/apps/Binary%20to%20Decimal/index.html)
 
 <!-- PROJECT IMAGE -->
 
