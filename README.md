@@ -1,7 +1,12 @@
 # MINI APPS
 Each mini app solves a very simple problem with a click of a button. There are mini apps that let you convert Celcius to Fahrenheit, throw a coin, reverse text or even create your own secret coded language! 
 
-[Mini Apps - Live Page](https://franciscocasillas.github.io/mini-apps/)
+[Mini Apps - Main Live Page](https://franciscocasillas.github.io/mini-apps/)
+
+## Mini apps list
+[Reverse Text] (https://franciscocasillas.github.io/mini-apps/apps/StringReverse/index.html)
+[DNA to RNA converter] (https://franciscocasillas.github.io/mini-apps/apps/DNAtoRNA/index.html)
+[Binary to Decimal converter] (https://franciscocasillas.github.io/mini-apps/apps/Binary%20to%20Decimal/index.html)
 
 <!-- PROJECT IMAGE -->
 
