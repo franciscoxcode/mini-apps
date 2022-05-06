@@ -1,13 +1,14 @@
-document.querySelector('.converter1').addEventListener('click', toUpperCase)
-document.querySelector('.converter2').addEventListener('click', toLowerCase)
+document.querySelector(".converter1").addEventListener("click", toFahrenheit);
+document.querySelector(".converter2").addEventListener("click", toCelcius);
 
-function toUpperCase() {
-    let text = document.querySelector('#input').value
-    document.querySelector('.answer').innerText = text.toUpperCase()
+function toFahrenheit() {
+	let celcius = document.querySelector("#input").value;
+	let fahrenheit = celcius * (9 / 5) + 32;
+	document.querySelector(".answer").innerText = `${fahrenheit}° F`;
 }
 
-function toLowerCase() {
-    let text = document.querySelector('#input').value
-    document.querySelector('.answer').innerText = text.toLowerCase()
+function toCelcius() {
+	let fahrenheit = document.querySelector("#input").value;
+	let celcius = (((fahrenheit - 32) * 5) / 9).toFixed(1);
+	document.querySelector(".answer").innerText = `${celcius}° C`;
 }
-
