@@ -1,15 +1,13 @@
 # MINI APPS
 Each mini app solves a very simple problem with a click of a button. There are mini apps that let you convert Celcius to Fahrenheit, throw a coin, reverse text or even create your own secret coded language! 
 
-[Mini Apps - Main Live Page](https://franciscoxcode.github.io/mini-apps/)
-
 ## Mini apps list
-* [Binary to Decimal converter](https://franciscocasillas.github.io/mini-apps/apps/Binary%20to%20Decimal/index.html)
-* [Celcius/Fahrenheit](https://franciscocasillas.github.io/mini-apps/apps/CelciusFahrenheit/index.html)
-* [DNA/RNA](https://franciscocasillas.github.io/mini-apps/apps/DNAtoRNA/index.html)
-* [Random number](https://franciscocasillas.github.io/mini-apps/apps/RandomNumber/index.html)
-* [Reverse Text](https://franciscocasillas.github.io/mini-apps/apps/StringReverse/index.html)
-* [Upper Case/Lower Case](https://franciscocasillas.github.io/mini-apps/apps/UpperToLower/index.html)
+* [Binary to Decimal converter](https://franciscoxcode.github.io/mini-apps/apps/Binary%20to%20Decimal/index.html)
+* [Celcius/Fahrenheit](https://franciscoxcode.github.io/mini-apps/apps/CelciusFahrenheit/index.html)
+* [DNA/RNA](https://franciscoxcode.github.io/mini-apps/apps/DNAtoRNA/index.html)
+* [Random number](https://franciscoxcode.github.io/mini-apps/apps/RandomNumber/index.html)
+* [Reverse Text](https://franciscoxcode.github.io/mini-apps/apps/StringReverse/index.html)
+* [Upper Case/Lower Case](https://franciscoxcode.github.io/mini-apps/apps/UpperToLower/index.html)
 
 <!-- PROJECT IMAGE -->
 
